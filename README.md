@@ -3,6 +3,7 @@ Ukon Bot for Mastodon
 
 Background (Japanese): https://mstdn.jp/@greymd/464750
 
+![Image](./img/image.png)
 
 ## Setting up
 
