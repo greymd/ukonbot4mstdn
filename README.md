@@ -1,7 +1,7 @@
 Ukon Bot for Mastodon
 ======================
 
-Background (Japanese): https://mstdn.jp/@greymd/464750
+Bot on [mstdn.jp](mstdn.jp): [@grebot](https://mstdn.jp/@grebot)
 
 ![Image](./img/image.png)
 
