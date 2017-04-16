@@ -1,7 +1,6 @@
 #!/bin/bash
 MASTODON_HOST="" # Fill in your mastodon's host
 ACCESS_TOKEN="" #Fill in your access_token
-SEARCH_SOURCE="うこん"
 SEARCH_SOURCE="う|こ|ん"
 SEARCH_PATTERNS="うこん|うんこ"
 
