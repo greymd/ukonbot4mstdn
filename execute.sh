@@ -40,7 +40,6 @@ main () {
     do
         results="${results}"$'\n'"${pat}は$(match "$pat" "$generated")個でてきました。"
     done < <(echo "$SEARCH_PATTERNS" | tr '|' '\n')
-    echo "$results"
 }
 
 main "$@"
